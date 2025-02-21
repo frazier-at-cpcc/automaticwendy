@@ -1,6 +1,6 @@
 from typing import List, Dict, Optional
 import os
-from playwright.async_api import async_playwright, Browser, Page
+from playwright.async_api import async_playwright, Browser, Page, Playwright
 import asyncio
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -8,30 +8,30 @@ from config import BROWSER_CONFIG, CHROME_PATHS, BASE_URL, COURSES_URL, SELECTOR
 
 class BrowserManager:
     @staticmethod
-    async def initialize_browser() -> Browser:
-        """Initialize and return a browser instance."""
-        async with async_playwright() as playwright:
-            try:
-                return await playwright.chromium.launch(**BROWSER_CONFIG)
-            except Exception as e:
-                # Try alternative browser configurations
-                executable_path = BrowserManager._find_browser_executable()
-                if not executable_path:
-                    raise RuntimeError("No suitable browser executable found")
-                
-                return await playwright.chromium.launch(
-                    **BROWSER_CONFIG,
-                    executable_path=executable_path
-                )
-    
-    @staticmethod
-    def _find_browser_executable() -> Optional[str]:
+    async def find_browser_executable() -> Optional[str]:
         """Find a suitable browser executable on the system."""
         return next((path for path in CHROME_PATHS if os.path.exists(path)), None)
 
+    @staticmethod
+    async def initialize_browser(playwright: Playwright) -> Browser:
+        """Initialize and return a browser instance."""
+        try:
+            return await playwright.chromium.launch(**BROWSER_CONFIG)
+        except Exception as e:
+            # Try alternative browser configurations
+            executable_path = await BrowserManager.find_browser_executable()
+            if not executable_path:
+                raise RuntimeError("No suitable browser executable found")
+            
+            return await playwright.chromium.launch(
+                **BROWSER_CONFIG,
+                executable_path=executable_path
+            )
+
 class CourseScraper:
-    def __init__(self, browser: Browser):
-        self.browser = browser
+    def __init__(self):
+        self.playwright = None
+        self.browser = None
     
     @staticmethod
     def extract_course_code(title: str) -> str:
@@ -119,7 +119,10 @@ class CourseScraper:
         status_callback: callable = None
     ) -> pd.DataFrame:
         """Scrape all course data and return as DataFrame."""
-        async with await self.browser.new_context() as context:
+        self.playwright = await async_playwright().start()
+        try:
+            self.browser = await BrowserManager.initialize_browser(self.playwright)
+            context = await self.browser.new_context()
             page = await context.new_page()
             
             try:
@@ -149,5 +152,23 @@ class CourseScraper:
                 
                 return pd.DataFrame(all_classes)
                 
-            except Exception as e:
-                raise RuntimeError(f"Scraping failed: {str(e)}") from e
+            finally:
+                await context.close()
+                await self.browser.close()
+                
+        except Exception as e:
+            raise RuntimeError(f"Scraping failed: {str(e)}") from e
+        
+        finally:
+            await self.playwright.stop()
+
+    async def __aenter__(self):
+        """Async context manager entry."""
+        return self
+
+    async def __aexit__(self, exc_type, exc_val, exc_tb):
+        """Async context manager exit."""
+        if self.browser:
+            await self.browser.close()
+        if self.playwright:
+            await self.playwright.stop()

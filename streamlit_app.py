@@ -1,6 +1,6 @@
 import asyncio
 import streamlit as st
-from scraper import BrowserManager, CourseScraper
+from scraper import CourseScraper
 from ui import UI
 
 async def main():
@@ -23,12 +23,7 @@ async def main():
     progress_bar, status_text = UI.create_progress_indicators()
     
     try:
-        # Initialize browser
-        browser = await BrowserManager.initialize_browser()
-        
-        try:
-            # Create scraper and fetch data
-            scraper = CourseScraper(browser)
+        async with CourseScraper() as scraper:
             df = await scraper.scrape_all_courses(
                 email,
                 password,
@@ -38,9 +33,6 @@ async def main():
             
             # Display results
             UI.display_results(df)
-            
-        finally:
-            await browser.close()
             
     except Exception as e:
         UI.show_error(str(e))
