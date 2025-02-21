@@ -13,15 +13,20 @@ A Streamlit app that scrapes Fast Lane US course schedules from the Epic Learnin
 ## Running Locally
 
 1. Clone this repository
-2. Install dependencies:
+2. Install system dependencies (Linux/Ubuntu):
+   ```bash
+   sudo apt-get update
+   sudo apt-get install chromium-browser chromium-driver
+   ```
+3. Install Python dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Install Playwright browsers:
+4. Install Playwright browsers:
    ```bash
    playwright install chromium
    ```
-4. Run the Streamlit app:
+5. Run the Streamlit app:
    ```bash
    streamlit run streamlit_app.py
    ```
@@ -30,8 +35,20 @@ A Streamlit app that scrapes Fast Lane US course schedules from the Epic Learnin
 
 1. Push your code to GitHub
 2. Connect your repository to Streamlit Cloud
-3. Add the following to your Streamlit Cloud requirements:
-   - No additional requirements needed, everything is in requirements.txt
+3. The deployment will automatically:
+   - Install system dependencies from packages.txt
+   - Install Python dependencies from requirements.txt
+   - Install Playwright browser on startup
+
+No additional configuration is needed as the app handles browser installation automatically.
+
+## Project Structure
+
+- `streamlit_app.py`: Main application code
+- `requirements.txt`: Python package dependencies
+- `packages.txt`: System dependencies for Streamlit Cloud
+- `.gitignore`: Git ignore rules
+- `README.md`: Documentation
 
 ## Usage
 

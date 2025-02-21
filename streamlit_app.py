@@ -2,11 +2,28 @@ import streamlit as st
 import pandas as pd
 import re
 import asyncio
+import subprocess
+import sys
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 from io import StringIO
 
 st.set_page_config(page_title="Epic Learning Network Course Scraper", layout="wide")
+
+# Install playwright browsers on startup
+if 'playwright_installed' not in st.session_state:
+    try:
+        st.info("Installing required browsers... This may take a moment.")
+        subprocess.run(
+            [sys.executable, "-m", "playwright", "install", "chromium"],
+            capture_output=True,
+            check=True
+        )
+        st.session_state.playwright_installed = True
+        st.success("Browser installation complete!")
+    except subprocess.CalledProcessError as e:
+        st.error(f"Failed to install browsers: {e.stderr.decode()}")
+        st.stop()
 
 def extract_course_code(title):
     match = re.match(r'^([^:]+):', title)
@@ -58,7 +75,11 @@ async def parse_class_schedule(html_content, course_title):
 
 async def scrape_courses(email, password, progress_bar, status_text):
     async with async_playwright() as playwright:
-        browser = await playwright.chromium.launch(headless=True)
+        # Use system chromium if available
+        browser = await playwright.chromium.launch(
+            headless=True,
+            executable_path="/usr/bin/chromium-browser" if sys.platform == "linux" else None
+        )
         context = await browser.new_context()
         page = await context.new_page()
         
