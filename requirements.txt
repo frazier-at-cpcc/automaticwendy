@@ -1,0 +1,4 @@
+streamlit
+playwright[chromium]
+beautifulsoup4
+pandas

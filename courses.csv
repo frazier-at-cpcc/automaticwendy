@@ -1,0 +1,343 @@
+Course Name,Days,Price,Partner Price,Includes CW,Course Link
+ACAC: Administering and Configuring Amazon Connect (ACAC),4,"$3,695.00","$2,216.00",Y,https://www.epiclearningnetwork.com/training/acac-administering-and-configuring-amazon-connect-acac/
+AWS-ACPEXX: AWS-CLD-ESS – AWS Cloud Practitioner Essentials,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-acpexx-aws-cld-ess-aws-cloud-practitioner-essentials/
+AWS-ADVARC: Advanced Architecting on AWS (AWS-ARCH-ADV),3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-advarc-advanced-architecting-on-aws-aws-arch-adv/
+AWS-ADVDEV: Advanced Developing on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-advdev-advanced-developing-on-aws/
+AWS-ARCHIT: AWS ARCH – Architecting on Amazon Web Services,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-archit-aws-arch-architecting-on-amazon-web-services/
+AWS-DA: Building Modern Data Analytics Solutions on AWS,4,"$2,700.00","$1,620.00",Y,https://www.epiclearningnetwork.com/training/aws-da-building-modern-data-analytics-solutions-on-aws/
+AWS-DA-BATCH: Building Batch Data Analytics Solutions on AWS,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-da-batch-building-batch-data-analytics-solutions-on-aws/
+AWS-DA-RS: Building Data Analytics Solutions Using Amazon Redshift,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-da-rs-building-data-analytics-solutions-using-amazon-redshift/
+AWS-DA-STREAM: Building Streaming Data Analytics Solutions on AWS,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-da-stream-building-streaming-data-analytics-solutions-on-aws/
+AWS-DBDBAW: Planning and Designing Databases on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-dbdbaw-planning-and-designing-databases-on-aws/
+AWS-DBDWOA: Data Warehousing on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-dbdwoa-data-warehousing-on-aws/
+AWS-DEVOPS: DevOps Engineering on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-devops-devops-engineering-on-aws/
+AWS-DL: Building Data Lakes on AWS,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-dl-building-data-lakes-on-aws/
+AWS-DODEVA: AWS DEV – Developing on Amazon Web Services,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-dodeva-aws-dev-developing-on-amazon-web-services/
+AWS-DSS: Developing Serverless Solutions on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-dss-developing-serverless-solutions-on-aws/
+AWS-EKS: Running Containers on Amazon Elastic Kubernetes Service (Amazon EKS),3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-eks-running-containers-on-amazon-elastic-kubernetes-service-amazon-eks/
+AWS-FIN: AWS Cloud Financial Management for Builders,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-fin-aws-cloud-financial-management-for-builders/
+AWS-MIMAWS: Migrating to AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-mimaws-migrating-to-aws/
+AWS-MLO-ENG: MLOps Engineering on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-mlo-eng-mlops-engineering-on-aws/
+AWS-MLPDSS: Practical Data Science with Amazon SageMaker,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-mlpdss-practical-data-science-with-amazon-sagemaker/
+AWS-SEC-ESS: AWS Security Essentials,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-sec-ess-aws-security-essentials/
+AWS-SISECO: Security Engineering on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-siseco-security-engineering-on-aws/
+AWS-SMS-DS: Amazon SageMaker Studio for Data Scientists,3,"$2,230.00","$1,338.00",Y,https://www.epiclearningnetwork.com/training/aws-sms-ds-amazon-sagemaker-studio-for-data-scientists/
+AWS-SYSOPS: Systems Operations on AWS,3,"$2,025.00","$1,215.00",Y,https://www.epiclearningnetwork.com/training/aws-sysops-systems-operations-on-aws/
+AWS-TECESS: AWS ESS – Amazon Web Services Technical Essentials,1,$675.00,$405.00,Y,https://www.epiclearningnetwork.com/training/aws-tecess-aws-ess-amazon-web-services-technical-essentials/
+ADB_ILLU_0L1: Adobe Illustrator CC Level 1,2,$790.00,$474.00,Y,https://www.epiclearningnetwork.com/training/adb_illu_0l1-adobe-illustrator-cc-level-1/
+ADB_ILLU_0L2: Adobe Illustrator CC Level 2,2,$790.00,$474.00,Y,https://www.epiclearningnetwork.com/training/adb_illu_0l2-adobe-illustrator-cc-level-2/
+ADB_INDE_0L1: Adobe InDesign CC Level 1,2,$790.00,$524.00,Y,https://www.epiclearningnetwork.com/training/adb_inde_0l1-adobe-indesign-cc-level-1/
+ADB_INDE_0L2: Adobe InDesign CC Level 2,2,$790.00,$524.00,Y,https://www.epiclearningnetwork.com/training/adb_inde_0l2-adobe-indesign-cc-level-2/
+MSFT_EXL_2019L1: Microsoft Excel 365/2019/2016 Part 1: Foundations,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_exl_2019l1-microsoft-excel-365-2019-2016-part-1-foundations/
+MSFT_EXL_2019L2: Microsoft Excel 365/2019/2016 Part 2: Analyzing and Presenting Data,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_exl_2019l2-microsoft-excel-365-2019-2016-part-2-analyzing-and-presenting-data/
+MSFT_EXL_2019L3: Microsoft Excel 365/2019/2016 Part 3: Advanced Functions and Data Forecasting,1,$295.00,$177.00,Y,https://www.epiclearningnetwork.com/training/msft_exl_2019l3-microsoft-excel-365-2019-2016-part-3-advanced-functions-and-data-forecasting/
+MSFT_EXL_DAVE: Data Analysis and Visualization with Microsoft Excel,2,$795.00,$440.00,Y,https://www.epiclearningnetwork.com/training/msft_exl_dave-data-analysis-and-visualization-with-microsoft-excel/
+MSFT_EXL_PDWE: Programming and Data Wrangling with VBA and Excel®,3,"$1,050.00",$630.00,Y,https://www.epiclearningnetwork.com/training/msft_exl_pdwe-programming-and-data-wrangling-with-vba-and-excel/
+MSFT_ONEN_2016: Microsoft OneNote for Desktop,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_onen_2016-microsoft-onenote-for-desktop/
+MSFT_OUT_2019L1: Microsoft Outlook Part 1: Communications and Calendaring,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_out_2019l1-microsoft-outlook-part-1-communications-and-calendaring/
+MSFT_OUT_2019L2: Microsoft Outlook Part 2: Organization and Automation,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_out_2019l2-microsoft-outlook-part-2-organization-and-automation/
+MSFT_PPT_2021L1: Microsoft PowerPoint Part 1: Foundations,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_ppt_2021l1-microsoft-powerpoint-part-1-foundations/
+MSFT_PPT_2021L2: Microsoft PowerPoint Part 2: Design and Animation,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_ppt_2021l2-microsoft-powerpoint-part-2-design-and-animation/
+MSFT_PUBL_2021: Microsoft Publisher,1,$375.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_publ_2021-microsoft-publisher/
+MSFT_VIS_2019P1: Microsoft Visio: Part 1,1,$375.00,$225.00,Y,https://www.epiclearningnetwork.com/training/msft_vis_2019p1-microsoft-visio-part-1/
+MSFT_WRD_2019L1: Microsoft Word 365/2019/2016 Part 1: Foundations,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_wrd_2019l1-microsoft-word-365-2019-2016-part-1-foundations/
+MSFT_WRD_2019L2: Microsoft Word 365/2019/2016 Part 2: Styling and Automating,1,$295.00,$145.00,Y,https://www.epiclearningnetwork.com/training/msft_wrd_2019l2-microsoft-word-365-2019-2016-part-2-styling-and-automating/
+"MSFT_WRD_2019L3: Microsoft Word 365/2019/2016 Part 3: Imagery, Markups, and References",1,$295.00,$177.00,Y,https://www.epiclearningnetwork.com/training/msft_wrd_2019l3-microsoft-word-365-2019-2016-part-3-imagery-markups-and-references/
+KA-AGLSCRMF: Agile Scrum Foundation Workshop (PSM exam included),2,"$1,395.00",$937.00,Y,https://www.epiclearningnetwork.com/training/ka-aglscrmf-agile-scrum-foundation-workshop-psm-exam-included/
+BA215: Foundation of Business Analysis,4,"$2,795.00","$1,397.00",Y,https://www.epiclearningnetwork.com/training/ba215-foundation-of-business-analysis/
+BA29: User Acceptance Testing (UAT) for Business Analysts,2,"$1,295.00",$648.00,Y,https://www.epiclearningnetwork.com/training/ba29-user-acceptance-testing-uat-for-business-analysts/
+BA420: Requirements Analysis Using Use Cases and User Acceptance Testing (UAT) for BAs,4,"$2,795.00","$1,397.00",Y,https://www.epiclearningnetwork.com/training/ba420-requirements-analysis-using-use-cases-and-user-acceptance-testing-uat-for-bas/
+ITIL4: ITIL4 Foundation Certification with Exam,3,"$2,495.00","$1,235.00",Y,https://www.epiclearningnetwork.com/training/itil4-itil4-foundation-certification-with-exam/
+"ITIL4-DPI: ITIL 4 Strategist – Direct, Plan and Improve with Exam",3,"$2,695.00","$1,340.00",Y,https://www.epiclearningnetwork.com/training/itil4-dpi-itil-4-strategist-direct-plan-and-improve-with-exam/
+MSFT_PRJ_2019_E: Microsoft Project,2,$890.00,$534.00,Y,https://www.epiclearningnetwork.com/training/msft_prj_2019_e-microsoft-project/
+PME100: Project Management Essentials (CAPM) Certification Exam Prep,3,"$2,295.00","$1,122.00",Y,https://www.epiclearningnetwork.com/training/pme100-project-management-essentials-capm-certification-exam-prep/
+PMNON300: Project Management for Non-Project Managers,2,"$1,595.00",$790.00,Y,https://www.epiclearningnetwork.com/training/pmnon300-project-management-for-non-project-managers/
+PMP3: PMI Authorized Project Management Professional (PMP) Certification Exam Prep,4,"$3,195.00","$1,500.00",Y,https://www.epiclearningnetwork.com/training/pmp3-pmi-authorized-project-management-professional-pmp-certification-exam-prep/
+AAUCMF: AAUCMF v12.5 – Advanced Administration for Unified Communications Manager and Features (AAUCMF),5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/aaucmf-aaucmf-v12-5-advanced-administration-for-unified-communications-manager-and-features-aaucmf/
+ACUCM12.5: ACUCM w/AUC – Administering Cisco UC Manager and Unity Connection,5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/acucm12-5-acucm-w-auc-administering-cisco-uc-manager-and-unity-connection/
+CLCOR: CLCOR – Implementing and Operating Cisco Collaboration Core Technologies (CLCOR),5,"$4,195.00","$2,097.50",Y,https://www.epiclearningnetwork.com/training/clcor-clcor-implementing-and-operating-cisco-collaboration-core-technologies-clcor/
+CVPD-1: CVPDS Part 1 – CVP Development and Scripting Part 1,5,"$4,995.00","$2,497.50",Y,https://www.epiclearningnetwork.com/training/cvpd-1-cvpds-part-1-cvp-development-and-scripting-part-1/
+CVPD-2: CVPDS Part 2 – CVP Development and Scripting Part,5,"$4,995.00","$2,497.50",Y,https://www.epiclearningnetwork.com/training/cvpd-2-cvpds-part-2-cvp-development-and-scripting-part/
+CVPD-Java: CVPD Java – CVPD Java Development for Call Studio (CVPD Java),5,"$4,995.00","$2,497.50",Y,https://www.epiclearningnetwork.com/training/cvpd-java-cvpd-java-cvpd-java-development-for-call-studio-cvpd-java/
+DTSIP: DTSIP – SIP Trunk Operations (DTSIP),5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/dtsip-dtsip-sip-trunk-operations-dtsip/
+ICER: ICER – Implementing Cisco Emergency Responder,2,"$2,695.00","$1,347.50",Y,https://www.epiclearningnetwork.com/training/icer-icer-implementing-cisco-emergency-responder/
+CBROPS: CBROPS – Understanding Cisco Cybersecurity Operations Fundamentals (CBROPS),5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/cbrops-cbrops-understanding-cisco-cybersecurity-operations-fundamentals-cbrops/
+SFWIPF: Fundamentals of Cisco Firewall Threat Defense and Intrusion Prevention (SFWIPF),5,"$4,000.00","$2,000.00",Y,https://www.epiclearningnetwork.com/training/sfwipf-fundamentals-of-cisco-firewall-threat-defense-and-intrusion-prevention-sfwipf/
+DCCOR: DCCOR – Implementing Cisco Data Center Core Technologies (DCCOR),5,"$4,595.00","$2,297.50",Y,https://www.epiclearningnetwork.com/training/dccor-dccor-implementing-cisco-data-center-core-technologies-dccor/
+DCCUCS: DCCUCS – Configuring Cisco Unified Computing System (DCCUCS),3,"$3,695.00","$1,847.49",Y,https://www.epiclearningnetwork.com/training/dccucs-dccucs-configuring-cisco-unified-computing-system-dccucs/
+DCIUCS: DCIUCS – Introducing Cisco Unified Computing System (DCIUCS),2,"$2,095.00","$1,047.50",Y,https://www.epiclearningnetwork.com/training/dciucs-dciucs-introducing-cisco-unified-computing-system-dciucs/
+DCUCAI: DCUCAI – Administering Cisco UCS with Intersight,4,"$4,195.00","$2,097.52",Y,https://www.epiclearningnetwork.com/training/dcucai-dcucai-administering-cisco-ucs-with-intersight/
+IADNACA: IADNACA – Implementing and Administering DNA Center for Assurance,5,"$4,495.00","$2,247.50",Y,https://www.epiclearningnetwork.com/training/iadnaca-iadnaca-implementing-and-administering-dna-center-for-assurance/
+INTUCSX: INTUCSX – Administering Cisco UCS X-Series Solutions with Intersight,5,"$4,495.00","$2,247.50",Y,https://www.epiclearningnetwork.com/training/intucsx-intucsx-administering-cisco-ucs-x-series-solutions-with-intersight/
+MHNHC: Migrating HyperFlex to Nutanix on Hyperconverged Cisco (MHNHC),3,"$2,995.00","$1,497.51",Y,https://www.epiclearningnetwork.com/training/mhnhc-migrating-hyperflex-to-nutanix-on-hyperconverged-cisco-mhnhc/
+MNDFC: MNDFC – Managing LAN Networks with Cisco Nexus Dashboard,5,"$4,495.00","$2,247.50",Y,https://www.epiclearningnetwork.com/training/mndfc-mndfc-managing-lan-networks-with-cisco-nexus-dashboard/
+SISE4: SISE – Implementing and Configuring Cisco Identity Services Engine,5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/sise4-sise-implementing-and-configuring-cisco-identity-services-engine/
+BGP4: BGP 4.0 – Configuring BGP of Cisco Routers (BGP),5,"$3,995.00","$1,997.50",Y,https://www.epiclearningnetwork.com/training/bgp4-bgp-4-0-configuring-bgp-of-cisco-routers-bgp/
+CCNAv2.0: CCNA – Implementing and Administering Cisco Solutions (CCNA),5,"$4,195.00","$2,097.50",Y,https://www.epiclearningnetwork.com/training/ccnav2-0-ccna-implementing-and-administering-cisco-solutions-ccna/
+CCNAv2.1: CCNA – Implementing and Administering Cisco Solutions (v2.1),5,"$4,195.00","$2,097.50",Y,https://www.epiclearningnetwork.com/training/ccnav2-1-ccna-implementing-and-administering-cisco-solutions-v2-1/
+ENARSI: ENARSI – Implementing Cisco Enterprise Advanced Routing and Services (ENARSI),5,"$4,195.00","$2,097.50",Y,https://www.epiclearningnetwork.com/training/enarsi-enarsi-implementing-cisco-enterprise-advanced-routing-and-services-enarsi/
+ENC9K: ENC9K – Implementing Cisco Catalyst 9000 Switches (ENC9K),3,"$2,995.00","$1,497.51",Y,https://www.epiclearningnetwork.com/training/enc9k-enc9k-implementing-cisco-catalyst-9000-switches-enc9k/
+ENCOR: ENCOR – Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR),5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/encor-encor-implementing-and-operating-cisco-enterprise-network-core-technologies-encor/
+ENSDWI: ENSDWI – Implementing Cisco SD-WAN Solutions,5,"$4,100.00","$2,050.00",Y,https://www.epiclearningnetwork.com/training/ensdwi-ensdwi-implementing-cisco-sd-wan-solutions/
+IP6OTS: IP6OTS – IPv6 Operations and Troubleshooting,5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/ip6ots-ip6ots-ipv6-operations-and-troubleshooting/
+MPLS3: MPLS 3.0 – Implementing Cisco MPLS (MPLS),5,"$3,995.00","$1,997.50",Y,https://www.epiclearningnetwork.com/training/mpls3-mpls-3-0-implementing-cisco-mpls-mpls/
+ACCXSL: ACCXSL – Advanced Contact Center Express Scripting Labs (ACCXSL),5,"$4,195.00","$2,097.50",Y,https://www.epiclearningnetwork.com/training/accxsl-accxsl-advanced-contact-center-express-scripting-labs-accxsl/
+AWXCC: Administering Webex Contact Center (AWXCC),4,"$3,995.00","$1,997.52",Y,https://www.epiclearningnetwork.com/training/awxcc-administering-webex-contact-center-awxcc/
+CCEA: CCEA – Administering Cisco Contact Center Enterprise,4,"$3,595.00","$1,797.52",Y,https://www.epiclearningnetwork.com/training/ccea-ccea-administering-cisco-contact-center-enterprise/
+CCEAA: CCEAA – Cisco Contact Center Enterprise Advanced Administration,3,"$2,795.00","$1,397.49",Y,https://www.epiclearningnetwork.com/training/cceaa-cceaa-cisco-contact-center-enterprise-advanced-administration/
+CCEF: Understanding Cisco Contact Center Foundations,1,$995.00,$945.00,Y,https://www.epiclearningnetwork.com/training/ccef-understanding-cisco-contact-center-foundations/
+CCEI: CCEI – Implementing Cisco Contact Center Enterprise,3,"$2,695.00","$1,347.51",Y,https://www.epiclearningnetwork.com/training/ccei-ccei-implementing-cisco-contact-center-enterprise/
+CCER: CCER – Reporting Cisco Contact Center Enterprise,2,"$1,795.00",$897.50,Y,https://www.epiclearningnetwork.com/training/ccer-ccer-reporting-cisco-contact-center-enterprise/
+CCET: CCET – Troubleshooting Cisco Contact Center Enterprise,2,"$1,795.00",$897.50,Y,https://www.epiclearningnetwork.com/training/ccet-ccet-troubleshooting-cisco-contact-center-enterprise/
+UCCXD: UCCXD – Deploying Cisco Unified Contact Center Express v6.0 (UCCXD),5,"$3,995.00","$1,997.50",Y,https://www.epiclearningnetwork.com/training/uccxd-uccxd-deploying-cisco-unified-contact-center-express-v6-0-uccxd/
+WxCCA: WxCCA: Webex Contact Center Advanced,4,"$3,995.00","$1,997.52",Y,https://www.epiclearningnetwork.com/training/wxcca-wxcca-webex-contact-center-advanced/
+C98WF6: C98WF6 – Configuring Cisco Catalyst 9800 and Intro to WIFI6,3,"$3,395.00","$1,697.49",Y,https://www.epiclearningnetwork.com/training/c98wf6-c98wf6-configuring-cisco-catalyst-9800-and-intro-to-wifi6/
+CWNA: CWNA – Certified Wireless Network Administrator,5,"$3,295.00","$1,647.50",Y,https://www.epiclearningnetwork.com/training/cwna-cwna-certified-wireless-network-administrator/
+ENWLSD: ENWLSD – Designing Cisco Enterprise Wireless Networks (ENWLSD),5,"$4,295.00","$2,147.50",Y,https://www.epiclearningnetwork.com/training/enwlsd-enwlsd-designing-cisco-enterprise-wireless-networks-enwlsd/
+ENWLSI: ENWLSI – Implementing Cisco Enterprise Wireless Networks (ENWLSI),5,"$4,095.00","$2,047.50",Y,https://www.epiclearningnetwork.com/training/enwlsi-enwlsi-implementing-cisco-enterprise-wireless-networks-enwlsi/
+WLFNDU: WLFNDU – Understanding Cisco Wireless Foundations (WLFNDU),5,"$3,995.00","$1,997.50",Y,https://www.epiclearningnetwork.com/training/wlfndu-wlfndu-understanding-cisco-wireless-foundations-wlfndu/
+A3AIARC101: Open Source Generative AI,3,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/a3aiarc101-open-source-generative-ai/
+A3AIARC102: AI Fine Tuning and Data Preparation for Pre-Trained Models,3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/a3aiarc102-ai-fine-tuning-and-data-preparation-for-pre-trained-models/
+A3AIDEV201: Application Development with AI,3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/a3aidev201-application-development-with-ai/
+A3AIUSR102: Zero Code AI Solutions,2,"$2,195.00","$1,097.50",Y,https://www.epiclearningnetwork.com/training/a3aiusr102-zero-code-ai-solutions/
+A3AIUSR106: Prompt Engineering and NLP,3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/a3aiusr106-prompt-engineering-and-nlp/
+TTAI2140: Implementing AI in Software Testing | AI in Test Automation,2,"$2,195.00","$1,097.50",Y,https://www.epiclearningnetwork.com/training/ttai2140-implementing-ai-in-software-testing-ai-in-test-automation/
+TTAI2305: Turbocharge Your Code! Generative AI Boot Camp for Developers,3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/ttai2305-turbocharge-your-code-generative-ai-boot-camp-for-developers/
+TTAI2363: Building Intelligent Web Applications with Azure OpenAI,3,"$2,695.00","$1,347.48",Y,https://www.epiclearningnetwork.com/training/ttai2363-building-intelligent-web-applications-with-azure-openai/
+TTAI2810: Mastering Machine Learning Operations (MLOps) and AI Security Boot Camp,3,"$2,795.00","$1,397.49",Y,https://www.epiclearningnetwork.com/training/ttai2810-mastering-machine-learning-operations-mlops-and-ai-security-boot-camp/
+TTAI3030: NLP Boot Camp / Hands-On Natural Language Processing,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttai3030-nlp-boot-camp-hands-on-natural-language-processing/
+TTAI4000: RPA Boot Camp / Hands-On Robotic Process Automation (RPA),3,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/ttai4000-rpa-boot-camp-hands-on-robotic-process-automation-rpa/
+TTML5510: Machine Learning Boot Camp / SkillJourney / Part 1: Data Prep & Cleaning,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttml5510-machine-learning-boot-camp-skilljourney-part-1-data-prep-cleaning/
+TTML5511: Machine Learning Boot Camp / SkillJourney / Part 2: Essentials Deep Dive Workshop,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttml5511-machine-learning-boot-camp-skilljourney-part-2-essentials-deep-dive-workshop/
+TTAI2005: AI Basics Camp 1: Getting Started with AI in Business: Tools & Techniques (2 days),2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/ttai2005-ai-basics-camp-1-getting-started-with-ai-in-business-tools-techniques-2-days/
+TTAI2006: AI Basics Camp 2: Transforming Business Ops with Cutting-Edge AI Apps (3 days),3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/ttai2006-ai-basics-camp-2-transforming-business-ops-with-cutting-edge-ai-apps-3-days/
+TTAI2009: QuickStart to Prompt Engineering for Everyday Business Users,1,$995.00,$497.50,Y,https://www.epiclearningnetwork.com/training/ttai2009-quickstart-to-prompt-engineering-for-everyday-business-users/
+TTAI2020: Getting Started with AutoGPT: Artificial General Intelligence (AGI) Basics for Business Users,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttai2020-getting-started-with-autogpt-artificial-general-intelligence-agi-basics-for-business-users/
+"TTAI2101: Implementing AI in Business: Stakeholder Strategies for the Modern Data Driven, Automated Enterprise",1,$995.00,$497.50,Y,https://www.epiclearningnetwork.com/training/ttai2101-implementing-ai-in-business-stakeholder-strategies-for-the-modern-data-driven-automated-enterprise/
+"TTAI2102: Understanding, Harnessing & Applying Generative AI for Decision Makers and Architects",1,$995.00,$497.50,Y,https://www.epiclearningnetwork.com/training/ttai2102-understanding-harnessing-applying-generative-ai-for-decision-makers-and-architects/
+TTAI2105: AI / AIOps for Business Innovators: Intelligent Automation (For Non-Technical Users),2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/ttai2105-ai-aiops-for-business-innovators-intelligent-automation-for-non-technical-users/
+"TTAI2335: Azure OpenAI Boot Camp for Developers: Platform, Generative AI, Models, Prompt Engineering",2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/ttai2335-azure-openai-boot-camp-for-developers-platform-generative-ai-models-prompt-engineering/
+TTAI2820: Mastering AI Security Boot Camp,3,"$2,795.00","$1,397.49",Y,https://www.epiclearningnetwork.com/training/ttai2820-mastering-ai-security-boot-camp/
+TTAI2835: Applying AI to Web Security,1,$995.00,$497.50,Y,https://www.epiclearningnetwork.com/training/ttai2835-applying-ai-to-web-security/
+"TT8120: Secure Web Applications | OWASP 2021 Top Ten 2021, Web Services, Rich Interfaces & More",2,"$1,695.00",$847.50,Y,https://www.epiclearningnetwork.com/training/tt8120-secure-web-applications-owasp-2021-top-ten-2021-web-services-rich-interfaces-more/
+TT8320-J: Java Secure Coding Camp | Attacking & Securing Java / JEE Web Applications,4,"$2,595.00","$1,297.48",Y,https://www.epiclearningnetwork.com/training/tt8320-j-java-secure-coding-camp-attacking-securing-java-jee-web-applications/
+TT8320-N: .Net Secure Coding Camp | Attacking and Securing .Net Web Apps (for .Net Core / Latest Edition),4,"$2,595.00","$1,297.48",Y,https://www.epiclearningnetwork.com/training/tt8320-n-net-secure-coding-camp-attacking-and-securing-net-web-apps-for-net-core-latest-edition/
+TT8700: Securing Databases | Database Security,2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/tt8700-securing-databases-database-security/
+TT8800: Information Assurance (STIG) Overview (TT8800),2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/tt8800-information-assurance-stig-overview-tt8800/
+TT8810: STIG Security | Application Security and Development (DISA STIG Training),5,"$2,795.00","$1,397.50",Y,https://www.epiclearningnetwork.com/training/tt8810-stig-security-application-security-and-development-disa-stig-training/
+TTAI2333: Getting Started with Azure OpenAI Boot Camp for Technical Users,3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/ttai2333-getting-started-with-azure-openai-boot-camp-for-technical-users/
+TTCP2000: Introduction to Programming and C++ Basics for Non-Programmers,5,"$2,695.00","$1,347.50",Y,https://www.epiclearningnetwork.com/training/ttcp2000-introduction-to-programming-and-c-basics-for-non-programmers/
+TTCP2100: Introduction to C++ 20 Programming Essentials,5,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/ttcp2100-introduction-to-c-20-programming-essentials/
+TTCP2150: Intermediate C++ 20 Programming / Effective C++,4,"$2,595.00","$1,309.48",Y,https://www.epiclearningnetwork.com/training/ttcp2150-intermediate-c-20-programming-effective-c/
+TTCP2175: Advanced C++ 20 Programming (Modern C++),3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/ttcp2175-advanced-c-20-programming-modern-c/
+TTDS6683: R Programming Essentials for Data Science & Analytics,3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/ttds6683-r-programming-essentials-for-data-science-analytics/
+A3G0: Go Programming Essentials,5,"$2,795.00","$1,397.50",Y,https://www.epiclearningnetwork.com/training/a3g0-go-programming-essentials/
+"TT2000: Getting Started with Programming, OO & Java Basics for Non-Developers",5,"$2,695.00","$1,347.50",Y,https://www.epiclearningnetwork.com/training/tt2000-getting-started-with-programming-oo-java-basics-for-non-developers/
+TT2100: Introduction to Core Java 21 Programming Developers Workshop,5,"$2,695.00","$1,347.50",Y,https://www.epiclearningnetwork.com/training/tt2100-introduction-to-core-java-21-programming-developers-workshop/
+TT3503: Test Driven Development (TDD) and Unit Testing Essentials,3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/tt3503-test-driven-development-tdd-and-unit-testing-essentials/
+"TT4003: Introduction HTML5, CSS3 and JavaScript",3,"$1,895.00",$947.49,Y,https://www.epiclearningnetwork.com/training/tt4003-introduction-html5-css3-and-javascript/
+TTAI2203: Leveraging OpenAI for Enterprise Solutions Boot Camp (Business Focused / Intermediate),4,"$2,695.00","$1,347.48",Y,https://www.epiclearningnetwork.com/training/ttai2203-leveraging-openai-for-enterprise-solutions-boot-camp-business-focused-intermediate/
+TTPS4800: Introduction to Python Programming Programming Basics,3,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttps4800-introduction-to-python-programming-programming-basics/
+TTPS4803: Python for Everyone / Getting Started with Python and Scripting Basics for Non-Developers,4,"$2,195.00","$1,097.48",Y,https://www.epiclearningnetwork.com/training/ttps4803-python-for-everyone-getting-started-with-python-and-scripting-basics-for-non-developers/
+TTPS4820: Python Boot Camp | Mastering Python Programming Essentials,5,"$2,495.00","$1,247.50",Y,https://www.epiclearningnetwork.com/training/ttps4820-python-boot-camp-mastering-python-programming-essentials/
+TTPS4824: Python for Networking & Systems Administrators (SysAdmin),4,"$2,595.00","$1,297.48",Y,https://www.epiclearningnetwork.com/training/ttps4824-python-for-networking-systems-administrators-sysadmin/
+TTPS4832: Test Automation with Python,3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/ttps4832-test-automation-with-python/
+TTPS4850: Advanced Python Programming / Next-Level Python,4,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttps4850-advanced-python-programming-next-level-python/
+TTPS4860: Full Stack Web Development with Python and Django,5,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/ttps4860-full-stack-web-development-with-python-and-django/
+TTPS4872: Python Primer for Data Science & Machine Learning / Hands-on Technical Overview,2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/ttps4872-python-primer-for-data-science-machine-learning-hands-on-technical-overview/
+TTPS4873: Fast Track to Python for Data Science,3,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttps4873-fast-track-to-python-for-data-science/
+TTPS4874: Applied Python for Data Science & Engineering,4,"$2,595.00","$1,297.48",Y,https://www.epiclearningnetwork.com/training/ttps4874-applied-python-for-data-science-engineering/
+"TTPS4876: Intermediate Python for Data Science | Explore NumPy, Pandas, SciKit Learn, SciPy, TensorFlow & More",5,"$2,695.00","$1,347.50",Y,https://www.epiclearningnetwork.com/training/ttps4876-intermediate-python-for-data-science-explore-numpy-pandas-scikit-learn-scipy-tensorflow-more/
+TTPS4894: Python for Security Analysts & Professionals,4,"$2,595.00","$1,297.48",Y,https://www.epiclearningnetwork.com/training/ttps4894-python-for-security-analysts-professionals/
+TTRS2103: Hands-on Rust Programming: From Basics to Proficiency,5,"$3,495.00","$1,747.50",Y,https://www.epiclearningnetwork.com/training/ttrs2103-hands-on-rust-programming-from-basics-to-proficiency/
+TTSCL2104: Fast Track to Scala Programming Essentials for OO / Java Developers,4,"$2,595.00","$1,297.48",Y,https://www.epiclearningnetwork.com/training/ttscl2104-fast-track-to-scala-programming-essentials-for-oo-java-developers/
+"TT3335: Spring Developer Boot Camp | Spring Core, Boot, AOP, Data, REST & More",4,"$2,595.00","$1,038.00",Y,https://www.epiclearningnetwork.com/training/tt3335-spring-developer-boot-camp-spring-core-boot-aop-data-rest-more/
+MA-SQLDEV: SQL for Developers,4,"$1,995.00","$1,000.00",Y,https://www.epiclearningnetwork.com/training/ma-sqldev-sql-for-developers/
+TTSQL002: Introduction to SQL Programming Basics,3,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttsql002-introduction-to-sql-programming-basics/
+TTSQL003: Introduction to Writing SQL Queries,3,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttsql003-introduction-to-writing-sql-queries/
+TTSQL005: Advanced SQL Programming,2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/ttsql005-advanced-sql-programming/
+TT3511: Introduction to Test Automation Essentials,1,"$1,195.00",$597.50,Y,https://www.epiclearningnetwork.com/training/tt3511-introduction-to-test-automation-essentials/
+MA-2038: Programming in C#,5,"$2,595.00","$1,295.00",Y,https://www.epiclearningnetwork.com/training/ma-2038-programming-in-c/
+TT4110: Introduction to JavaScript | Modern JavaScript Essentials,3,"$1,895.00",$947.49,Y,https://www.epiclearningnetwork.com/training/tt4110-introduction-to-javascript-modern-javascript-essentials/
+TT4165: Introduction to Angular | Angular Essentials JumpStart,3,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/tt4165-introduction-to-angular-angular-essentials-jumpstart/
+TT4168: Mastering Angular Developer Boot Camp,5,"$2,495.00","$1,247.50",Y,https://www.epiclearningnetwork.com/training/tt4168-mastering-angular-developer-boot-camp/
+TT4190: Getting Started with React | Introduction to React Basics,3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/tt4190-getting-started-with-react-introduction-to-react-basics/
+TT4195: Mastering React Developer Boot Camp,5,"$2,695.00","$1,347.50",Y,https://www.epiclearningnetwork.com/training/tt4195-mastering-react-developer-boot-camp/
+CEHv13: Certified Ethical Hacker (CEH) v13 with Exam (312-50),5,"$3,599.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/cehv13-certified-ethical-hacker-ceh-v13-with-exam-312-50/
+C)CSA/C)TIA: C)CSA/CTIA- Certified Cyber Security Analyst &Certified Threat Intelligence,5,"$3,500.00","$1,750.00",Y,https://www.epiclearningnetwork.com/training/ccsa-ctia-ccsa-ctia-certified-cyber-security-analyst-certified-threat-intelligence/
+C)CSO: Certified Cloud Security Officer,5,"$4,000.00","$2,000.00",Y,https://www.epiclearningnetwork.com/training/ccso-certified-cloud-security-officer/
+C)CSSA: C)CSSA-Certified CyberSecurity Systems Auditor,4,"$3,000.00","$1,200.00",Y,https://www.epiclearningnetwork.com/training/ccssa-ccssa-certified-cybersecurity-systems-auditor/
+C)CSSM: C)CSSM Certified Cybersecurity Manager,4,"$3,000.00","$1,200.00",Y,https://www.epiclearningnetwork.com/training/ccssm-ccssm-certified-cybersecurity-manager/
+C)DFE: Certified Digital Forensics Examiner,5,"$3,500.00","$1,750.00",Y,https://www.epiclearningnetwork.com/training/cdfe-certified-digital-forensics-examiner/
+C)DRE: Certified Disaster Recovery Engineer,4,"$3,000.00","$1,200.00",Y,https://www.epiclearningnetwork.com/training/cdre-certified-disaster-recovery-engineer/
+C)IHE: Certified Incident Handling Engineer,4,"$3,500.00","$1,400.00",Y,https://www.epiclearningnetwork.com/training/cihe-certified-incident-handling-engineer/
+C)ISRM: Certified Information Systems Risk Manager,3,"$2,500.00",$750.00,Y,https://www.epiclearningnetwork.com/training/cisrm-certified-information-systems-risk-manager/
+C)ISSO: C)ISSO,5,"$3,500.00","$1,750.00",Y,https://www.epiclearningnetwork.com/training/cisso-cisso/
+C)ITP: C)ITP-Certified Information Technologies Principles,5,"$3,000.00","$1,500.00",Y,https://www.epiclearningnetwork.com/training/citp-citp-certified-information-technologies-principles/
+C)PEH/C)PTE: Certified Ethical Hacker Boot Camp,6,"$5,500.00","$2,750.00",Y,https://www.epiclearningnetwork.com/training/cpeh-cpte-certified-ethical-hacker-boot-camp/
+C)PSH: Certified PowerShell Hacker,5,"$3,000.00","$1,500.00",Y,https://www.epiclearningnetwork.com/training/cpsh-certified-powershell-hacker/
+C)PTC: Certified Penetration Testing Consultant,4,"$4,000.00","$1,600.00",Y,https://www.epiclearningnetwork.com/training/cptc-certified-penetration-testing-consultant/
+C)RMFA/C)CSFO: Certified Risk Management Framework Analyst,4,"$3,000.00","$1,200.00",Y,https://www.epiclearningnetwork.com/training/crmfa-ccsfo-certified-risk-management-framework-analyst/
+C)SLO: Certified Security Leadership Officer,5,"$3,250.00","$1,625.00",Y,https://www.epiclearningnetwork.com/training/cslo-certified-security-leadership-officer/
+C)SP: Certified Security Principles,5,"$3,000.00","$1,500.00",Y,https://www.epiclearningnetwork.com/training/csp-certified-security-principles-2/
+C)SWAE: Certified Secure Web Application Engineer,5,"$3,500.00","$1,750.00",Y,https://www.epiclearningnetwork.com/training/cswae-certified-secure-web-application-engineer/
+C)VA: C)VA,3,"$3,000.00",$900.00,Y,https://www.epiclearningnetwork.com/training/cva-cva/
+CISSP: CISSP (Certified Information Systems Security Professional),5,"$3,095.00","$1,200.00",Y,https://www.epiclearningnetwork.com/training/cissp-cissp-certified-information-systems-security-professional/
+EDU-210: Firewall Essentials: Configuration and Management,5,"$4,995.00","$2,497.50",Y,https://www.epiclearningnetwork.com/training/edu-210-firewall-essentials-configuration-and-management/
+EDU-220: EDU-220 ΓÇô Pan: Managing Firewalls at Scale,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/edu-220-edu-220-%ce%b3co-pan-managing-firewalls-at-scale/
+"EDU-260: EDU-260 ΓÇô Cortex XDR 2: Prevention, Analysis, and Response",3,"$2,995.00","$1,497.00",Y,https://www.epiclearningnetwork.com/training/edu-260-edu-260-%ce%b3co-cortex-xdr-2-prevention-analysis-and-response/
+EDU-330: EDU-330 ΓÇô Firewall: Troubleshooting,3,"$2,995.00","$1,497.00",Y,https://www.epiclearningnetwork.com/training/edu-330-edu-330-%ce%b3co-firewall-troubleshooting/
+EDU-380: Palo Alto Networks: Cortex XSOAR 6.8: Automation and Orchestration (EDU-380),4,"$3,995.00","$1,996.00",Y,https://www.epiclearningnetwork.com/training/edu-380-palo-alto-networks-cortex-xsoar-6-8-automation-and-orchestration-edu-380/
+NISTv2.0: Integrating NIST Frameworks (ERM/CSF/RMF),3,"$2,395.00",$950.00,Y,https://www.epiclearningnetwork.com/training/nistv2-0-integrating-nist-frameworks-erm-csf-rmf/
+TT10975: Introduction to Programming in C# (For C# and .Net Core / Latest Edition) (10975),5,"$2,495.00","$1,247.50",Y,https://www.epiclearningnetwork.com/training/tt10975-introduction-to-programming-in-c-for-c-and-net-core-latest-edition-10975/
+TT20483: Programming in C# | Creating Apps in C# and .Net Core / Latest Edition (20483),5,"$2,495.00","$1,247.50",Y,https://www.epiclearningnetwork.com/training/tt20483-programming-in-c-creating-apps-in-c-and-net-core-latest-edition-20483/
+TT20486: Developing ASP.Net Core MVC Web Applications / Latest Edition (20486),5,"$2,495.00","$1,247.50",Y,https://www.epiclearningnetwork.com/training/tt20486-developing-asp-net-core-mvc-web-applications-latest-edition-20486/
+"TTCN2155: Intermediate C# | Patterns, Generics, Threading, Database, Entity Framework, UI & More",5,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/ttcn2155-intermediate-c-patterns-generics-threading-database-entity-framework-ui-more/
+AI-102T00: Designing and Implementing a Microsoft Azure AI Solution,4,"$2,396.00",$600.00,N,https://www.epiclearningnetwork.com/training/ai-102t00-designing-and-implementing-a-microsoft-azure-ai-solution/
+AI-3016: Develop custom copilots with Azure AI Studio (AI-3016),1,$695.00,$150.00,Y,https://www.epiclearningnetwork.com/training/ai-3016-develop-custom-copilots-with-azure-ai-studio-ai-3016/
+AZ-104T00: Microsoft Azure Administrator,4,"$2,595.00",$600.00,N,https://www.epiclearningnetwork.com/training/az-104t00-microsoft-azure-administrator/
+AZ-140T00: Configuring and Operating Windows Virtual Desktop on Microsoft Azure,4,"$2,595.00",$600.00,Y,https://www.epiclearningnetwork.com/training/az-140t00-configuring-and-operating-windows-virtual-desktop-on-microsoft-azure/
+AZ-204: Developing Solutions for Microsoft Azure,5,"$2,795.00",$750.00,N,https://www.epiclearningnetwork.com/training/az-204-developing-solutions-for-microsoft-azure/
+AZ-305T00: Designing Microsoft Azure Infrastructure Solutions,4,"$2,595.00",$600.00,N,https://www.epiclearningnetwork.com/training/az-305t00-designing-microsoft-azure-infrastructure-solutions/
+AZ-400: Microsoft Azure DevOps Solutions,4,"$2,795.00",$600.00,N,https://www.epiclearningnetwork.com/training/az-400-microsoft-azure-devops-solutions/
+AZ-500: Microsoft Azure Security Technologies,4,"$2,795.00",$600.00,N,https://www.epiclearningnetwork.com/training/az-500-microsoft-azure-security-technologies/
+AZ-700T00: Designing and Implementing Microsoft Azure Networking Solutions,3,"$1,895.00",$450.00,Y,https://www.epiclearningnetwork.com/training/az-700t00-designing-and-implementing-microsoft-azure-networking-solutions/
+AZ-900T00: Microsoft Azure Fundamentals,1,$595.00,$150.00,N,https://www.epiclearningnetwork.com/training/az-900t00-microsoft-azure-fundamentals/
+DP-100T01: Designing and Implementing a Data Science Solution on Azure,4,"$2,595.00",$600.00,Y,https://www.epiclearningnetwork.com/training/dp-100t01-designing-and-implementing-a-data-science-solution-on-azure/
+DP-203T00: Data Engineering on Microsoft Azure,4,"$2,396.00",$600.00,N,https://www.epiclearningnetwork.com/training/dp-203t00-data-engineering-on-microsoft-azure/
+DP-300T00: Administering Microsoft Azure SQL Solutions,4,"$2,595.00",$600.00,N,https://www.epiclearningnetwork.com/training/dp-300t00-administering-microsoft-azure-sql-solutions/
+DP-601T00: Implementing a Lakehouse with Microsoft Fabric,1,$595.00,$150.00,N,https://www.epiclearningnetwork.com/training/dp-601t00-implementing-a-lakehouse-with-microsoft-fabric/
+DP-900T00: Microsoft Azure Data Fundamentals,1,$595.00,$150.00,N,https://www.epiclearningnetwork.com/training/dp-900t00-microsoft-azure-data-fundamentals/
+MD-102T00: Microsoft 365 Endpoint Administrator,5,"$2,995.00",$750.00,Y,https://www.epiclearningnetwork.com/training/md-102t00-microsoft-365-endpoint-administrator/
+MS-102T00: Microsoft 365 Administrator Essentials,5,"$2,995.00",$750.00,Y,https://www.epiclearningnetwork.com/training/ms-102t00-microsoft-365-administrator-essentials/
+MS-4004: Empower Your Workforce With Copilot For Microsoft 365 Use Cases,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/ms-4004-empower-your-workforce-with-copilot-for-microsoft-365-use-cases/
+MS-4005: Craft Effective Prompts For Microsoft Copilot for Microsoft-365,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/ms-4005-craft-effective-prompts-for-microsoft-copilot-for-microsoft-365/
+MS-55265: Microsoft Power Apps,2,"$1,195.00",$590.00,Y,https://www.epiclearningnetwork.com/training/ms-55265-microsoft-power-apps/
+MS-900T01: Microsoft 365 Fundamentals,1,$595.00,$150.00,N,https://www.epiclearningnetwork.com/training/ms-900t01-microsoft-365-fundamentals/
+OP-CopExc365: Copilot in Excel,1,$195.00,$125.00,Y,https://www.epiclearningnetwork.com/training/op-copexc365-copilot-in-excel/
+OP-CopWrd365: Copilot in Word,1,$195.00,$125.00,Y,https://www.epiclearningnetwork.com/training/op-copwrd365-copilot-in-word/
+WIN600: Introduction to Windows Troubleshooting and Support,2,"$1,495.00",$300.00,Y,https://www.epiclearningnetwork.com/training/win600-introduction-to-windows-troubleshooting-and-support/
+SC-200T00: Microsoft Security Operations Analyst,4,"$2,396.00",$600.00,N,https://www.epiclearningnetwork.com/training/sc-200t00-microsoft-security-operations-analyst/
+SC-300T00: Microsoft Identity and Access Administrator,4,"$2,396.00",$600.00,N,https://www.epiclearningnetwork.com/training/sc-300t00-microsoft-identity-and-access-administrator/
+SC-400T00: Microsoft Information Protection Administrator,4,"$2,595.00",$600.00,Y,https://www.epiclearningnetwork.com/training/sc-400t00-microsoft-information-protection-administrator/
+"SC-900T00: Microsoft Security, Compliance, and Identity Fundamentals",1,$599.00,$150.00,N,https://www.epiclearningnetwork.com/training/sc-900t00-microsoft-security-compliance-and-identity-fundamentals/
+OP-Copilot: Introduction to Microsoft Copilot,1,$350.00,$175.00,Y,https://www.epiclearningnetwork.com/training/op-copilot-introduction-to-microsoft-copilot/
+PL-200T00: Microsoft Power Platform Functional Consultant,4,"$2,495.00",$600.00,N,https://www.epiclearningnetwork.com/training/pl-200t00-microsoft-power-platform-functional-consultant/
+PL-400T00: Microsoft Power Platform Developer,5,"$2,995.00",$750.00,N,https://www.epiclearningnetwork.com/training/pl-400t00-microsoft-power-platform-developer/
+PL-500T00: Microsoft Power Automate RPA Developer,5,"$2,995.00",$750.00,Y,https://www.epiclearningnetwork.com/training/pl-500t00-microsoft-power-automate-rpa-developer/
+"PL-7000 Bundle: Creating Apps and Automated Workflows with MIcrosoft Power Platform (PL-7001, PL-7002, PL-7003 in 4-",4,"$2,595.00",$600.00,Y,https://www.epiclearningnetwork.com/training/pl-7000-bundle-creating-apps-and-automated-workflows-with-microsoft-power-platform-pl-7001-pl-7002-pl-7003-in-4/
+PL-7001: Create and manage canvas apps with Power Apps,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pl-7001-create-and-manage-canvas-apps-with-power-apps/
+PL-7002: Create and manage automated processes by using Power Automate,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pl-7002-create-and-manage-automated-processes-by-using-power-automate/
+PL-7003: Create and manage model-driven apps with Power Apps and Dataverse,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pl-7003-create-and-manage-model-driven-apps-with-power-apps-and-dataverse/
+PL-7004: Implement AI models with Microsoft Power Platform AI Builder,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pl-7004-implement-ai-models-with-microsoft-power-platform-ai-builder/
+PL-7008: Create and extend custom Copilots in Microsoft Copilot Studio,1,$675.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pl-7008-create-and-extend-custom-copilots-in-microsoft-copilot-studio/
+PL-900T00: Microsoft Power Platform Fundamentals,1,$695.00,$150.00,N,https://www.epiclearningnetwork.com/training/pl-900t00-microsoft-power-platform-fundamentals/
+DP-600T00: Microsoft Fabric Analytics Engineer,4,"$2,595.00",$600.00,Y,https://www.epiclearningnetwork.com/training/dp-600t00-microsoft-fabric-analytics-engineer/
+PBI-DM: Power BI Data Model Design Using Power BI Desktop,1,$595.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pbi-dm-power-bi-data-model-design-using-power-bi-desktop/
+PBI-RB: Using Power BI Desktop – Data Analysis and Report Builder,2,"$1,100.00",$300.00,Y,https://www.epiclearningnetwork.com/training/pbi-rb-using-power-bi-desktop-data-analysis-and-report-builder/
+PBICAL: Introduction to DAX for Power BI Desktop Users – Level 3,2,"$1,300.00",$650.00,Y,https://www.epiclearningnetwork.com/training/pbical-introduction-to-dax-for-power-bi-desktop-users-level-3/
+PBICDMD: Data Model Design using Power BI Desktop – Level 2,1,$650.00,$325.00,Y,https://www.epiclearningnetwork.com/training/pbicdmd-data-model-design-using-power-bi-desktop-level-2/
+PBICRB: Data Analysis using Power BI Desktop – Level 1 – Report Builder,2,"$1,100.00",$550.00,Y,https://www.epiclearningnetwork.com/training/pbicrb-data-analysis-using-power-bi-desktop-level-1-report-builder/
+PBIDashboard: Power BI: Dashboard in a Day,1,$595.00,$150.00,Y,https://www.epiclearningnetwork.com/training/pbidashboard-power-bi-dashboard-in-a-day/
+PL-300T00: Microsoft Power BI Data Analyst,3,"$1,895.00",$450.00,N,https://www.epiclearningnetwork.com/training/pl-300t00-microsoft-power-bi-data-analyst/
+"TTDPB01: Power BI Essentials: PowerBI for Data Transformation, Reporting and Analytics",2,"$1,695.00",$847.50,Y,https://www.epiclearningnetwork.com/training/ttdpb01-power-bi-essentials-powerbi-for-data-transformation-reporting-and-analytics/
+TTDPB02: Next Level PowerBI: Mastering the Power Query Editor & Creating a Robust Semantic Model,2,"$1,695.00",$847.50,Y,https://www.epiclearningnetwork.com/training/ttdpb02-next-level-powerbi-mastering-the-power-query-editor-creating-a-robust-semantic-model/
+AZ-040T00: Automating Administration with PowerShell,5,"$2,795.00",$750.00,N,https://www.epiclearningnetwork.com/training/az-040t00-automating-administration-with-powershell/
+POWER400: Advanced PowerShell,3,"$2,095.00",$660.00,Y,https://www.epiclearningnetwork.com/training/power400-advanced-powershell/
+MSFT_SP_2019L1: Introduction to SharePoint for Office 365 Training,1,$445.00,$222.50,Y,https://www.epiclearningnetwork.com/training/msft_sp_2019l1-introduction-to-sharepoint-for-office-365-training/
+WE-SP365SO: SharePoint for Office 365 Site Owner,2,$995.00,$497.50,Y,https://www.epiclearningnetwork.com/training/we-sp365so-sharepoint-for-office-365-site-owner/
+1013: Fundamentals of SQL Querying,2,$995.00,$400.00,Y,https://www.epiclearningnetwork.com/training/1013-fundamentals-of-sql-querying/
+SQL101V2: Introduction to Transact-SQL 5 day (Interface DP-080 Replacement),5,"$2,795.00",$300.00,Y,https://www.epiclearningnetwork.com/training/sql101v2-introduction-to-transact-sql-5-day-interface-dp-080-replacement/
+SQL250: Transact-SQL for Developers,5,"$2,795.00","$1,250.00",Y,https://www.epiclearningnetwork.com/training/sql250-transact-sql-for-developers/
+"SSRS795: SQL Server Reporting Services (SSRS) – Authoring, Deploying, and Managing Reports",5,"$2,995.00",$950.00,Y,https://www.epiclearningnetwork.com/training/ssrs795-sql-server-reporting-services-ssrs-authoring-deploying-and-managing-reports/
+BITLOCK: Planning and Deploying BitLocker Drive Encryption,2,"$1,595.00",$800.00,Y,https://www.epiclearningnetwork.com/training/bitlock-planning-and-deploying-bitlocker-drive-encryption/
+WIN740: Advanced Windows Troubleshooting and Support,5,"$2,995.00",$750.00,Y,https://www.epiclearningnetwork.com/training/win740-advanced-windows-troubleshooting-and-support/
+AZ-800T00: Administering Windows Server Hybrid Core Infrastructure,4,"$2,370.00",$600.00,N,https://www.epiclearningnetwork.com/training/az-800t00-administering-windows-server-hybrid-core-infrastructure/
+AZ-801T00: Configuring Windows Server Hybrid Advanced Services,4,"$2,370.00",$600.00,N,https://www.epiclearningnetwork.com/training/az-801t00-configuring-windows-server-hybrid-advanced-services/
+"UCSXDOT: UCSXDOT: UCS X-Series Intersight, Deployment, Operations, Troubleshooting",5,"$4,995.00","$2,497.50",Y,https://www.epiclearningnetwork.com/training/ucsxdot-ucsxdot-ucs-x-series-intersight-deployment-operations-troubleshooting/
+A+1101: CompTIA A+ Certification Core 1 (Exam 220-1101),5,"$2,195.00","$1,100.00",Y,https://www.epiclearningnetwork.com/training/a1101-comptia-a-certification-core-1-exam-220-1101/
+A+1102: CompTIA A+ Certification Core 2 (Exam 220-1102),5,"$2,195.00","$1,100.00",Y,https://www.epiclearningnetwork.com/training/a1102-comptia-a-certification-core-2-exam-220-1102/
+AT607: CompTIA CySA+ Cybersecurity Analyst,5,"$2,795.00","$1,000.00",Y,https://www.epiclearningnetwork.com/training/at607-comptia-cysa-cybersecurity-analyst/
+CompTIA A+: CompTIA A+ (Exams 1101 and 1102),5,"$2,970.00","$1,485.00",Y,https://www.epiclearningnetwork.com/training/comptia-a-comptia-a-exams-1101-and-1102/
+NET+009: CompTIA Network+ Certification (N10-009),5,"$2,795.00","$1,000.00",Y,https://www.epiclearningnetwork.com/training/net009-comptia-network-certification-n10-009/
+SEC+501: CompTIA Security+ (Exam SYO-501),5,"$2,795.00","$1,000.00",Y,https://www.epiclearningnetwork.com/training/sec501-comptia-security-exam-syo-501/
+SEC+701: CompTIA Security+ (Exam SYO-701),5,"$2,795.00","$1,000.00",Y,https://www.epiclearningnetwork.com/training/sec701-comptia-security-exam-syo-701/
+"TTDS6000: Data Science Overview | Technologies, Tools & Modern Roles in the Data-Driven Enterprise",1,$995.00,$497.50,Y,https://www.epiclearningnetwork.com/training/ttds6000-data-science-overview-technologies-tools-modern-roles-in-the-data-driven-enterprise/
+TTDS6022: Data Literacy Basics for Everyone,3,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttds6022-data-literacy-basics-for-everyone/
+TTDS6882: Working with Elasticsearch,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttds6882-working-with-elasticsearch/
+TTDB4680: Introduction to MongoDB for DBAs,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttdb4680-introduction-to-mongodb-for-dbas/
+TTDB4683: Introduction to MongoDB for Developers,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttdb4683-introduction-to-mongodb-for-developers/
+TTDB7020: PostgreSQL Server Administration,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttdb7020-postgresql-server-administration/
+TTDB7024: PostgreSQL for Database Developers,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttdb7024-postgresql-for-database-developers/
+AI-900T00: Microsoft Azure AI Fundamentals,1,$599.00,$150.00,Y,https://www.epiclearningnetwork.com/training/ai-900t00-microsoft-azure-ai-fundamentals/
+TTAI3012: Deep Learning Essentials Boot Camp,2,"$2,295.00","$1,147.50",Y,https://www.epiclearningnetwork.com/training/ttai3012-deep-learning-essentials-boot-camp/
+TTML5502: Exploring AI & Machine Learning for the Enterprise / Hands-On Overview,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttml5502-exploring-ai-machine-learning-for-the-enterprise-hands-on-overview/
+TTML5506-P: Machine Learning Essentials with Python,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttml5506-p-machine-learning-essentials-with-python/
+A3ANS100: Ansible 100 – Introduction to Ansible,3,"$2,295.00","$1,147.50",Y,https://www.epiclearningnetwork.com/training/a3ans100-ansible-100-introduction-to-ansible/
+A3ANS201: Ansible 201 – Network Automation with Python and Ansible,5,"$2,495.00","$1,397.50",Y,https://www.epiclearningnetwork.com/training/a3ans201-ansible-201-network-automation-with-python-and-ansible/
+A3ANS202: Ansible 202 – Linux Server Automation,5,"$2,795.00","$1,397.50",Y,https://www.epiclearningnetwork.com/training/a3ans202-ansible-202-linux-server-automation/
+A3CICD: Architecting CI/CD Pipelines and Automations,3,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/a3cicd-architecting-ci-cd-pipelines-and-automations/
+A3CKA: Certified Kubernetes Administrator – CKA,5,"$2,895.00","$1,447.50",Y,https://www.epiclearningnetwork.com/training/a3cka-certified-kubernetes-administrator-cka/
+A3CKAD: Certified Kubernetes Application Developer – CKAD,5,"$2,895.00","$1,447.50",Y,https://www.epiclearningnetwork.com/training/a3ckad-certified-kubernetes-application-developer-ckad/
+A3CKS: Certified Kubernetes Security Specialist – CKS,5,"$2,895.00","$1,447.50",Y,https://www.epiclearningnetwork.com/training/a3cks-certified-kubernetes-security-specialist-cks/
+A3GHCP: GitHub and GitHub + CoPilot,2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/a3ghcp-github-and-github-copilot/
+A3GITHUB: Git and GitHub Essentials,2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/a3github-git-and-github-essentials/
+A3GITLAB: Git and GitLab Essentials,2,"$1,895.00",$947.50,Y,https://www.epiclearningnetwork.com/training/a3gitlab-git-and-gitlab-essentials/
+A3TF101: Terraform 101 – IAC,3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/a3tf101-terraform-101-iac/
+A3TF102: Terraform 102 – Managing Azure Infrastructure with Terraform,3,"$2,195.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/a3tf102-terraform-102-managing-azure-infrastructure-with-terraform/
+DOF: DevOps Foundation,2,"$1,295.00",$897.00,Y,https://www.epiclearningnetwork.com/training/dof-devops-foundation/
+SUSEK8S: SUSE Kubernetes Administration KUB201v1,3,"$2,400.00","$1,440.00",Y,https://www.epiclearningnetwork.com/training/susek8s-suse-kubernetes-administration-kub201v1/
+SUSERAN: Rancher Manager 2.8 for Rancher Prime Operations RAN201v2.8,3,"$2,400.00","$1,440.00",Y,https://www.epiclearningnetwork.com/training/suseran-rancher-manager-2-8-for-rancher-prime-operations-ran201v2-8/
+TTDV7540: JumpStart to Jira for Administrators,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttdv7540-jumpstart-to-jira-for-administrators/
+TTDV7541: Introduction to Jira for End Users / JumpStart to Jira,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttdv7541-introduction-to-jira-for-end-users-jumpstart-to-jira/
+TTDV7551: Introduction to GitHub for Developers,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttdv7551-introduction-to-github-for-developers/
+TTDV7553: Introduction to GitLab,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttdv7553-introduction-to-gitlab/
+TTDV7580: Introduction to Ansible / Automation with Ansible,3,"$2,295.00","$1,147.50",Y,https://www.epiclearningnetwork.com/training/ttdv7580-introduction-to-ansible-automation-with-ansible/
+F5Admin: F5 Networks Administering BIG-IP,2,"$2,420.00","$1,452.00",Y,https://www.epiclearningnetwork.com/training/f5admin-f5-networks-administering-big-ip/
+F5AFM: F5 Networks Configuring BIG-IP AFM: Advanced Firewall Manager,2,"$2,420.00","$1,452.00",Y,https://www.epiclearningnetwork.com/training/f5afm-f5-networks-configuring-big-ip-afm-advanced-firewall-manager/
+F5APM: F5 Networks Configuring BIG-IP APM: Access Policy Manager,3,"$3,630.00","$2,178.00",Y,https://www.epiclearningnetwork.com/training/f5apm-f5-networks-configuring-big-ip-apm-access-policy-manager/
+F5AWAFC: F5 Networks Configuring BIG-IP Advanced WAF: Web Application Firewall (formerly ASM),4,"$4,840.00","$2,904.00",Y,https://www.epiclearningnetwork.com/training/f5awafc-f5-networks-configuring-big-ip-advanced-waf-web-application-firewall-formerly-asm/
+F5DNS: F5 Networks Configuring BIG-IP DNS: Domain Name System,2,"$2,420.00","$1,452.00",Y,https://www.epiclearningnetwork.com/training/f5dns-f5-networks-configuring-big-ip-dns-domain-name-system/
+F5LTM: F5 Networks Configuring BIG-IP LTM: Local Traffic Manager,3,"$3,630.00","$2,178.00",Y,https://www.epiclearningnetwork.com/training/f5ltm-f5-networks-configuring-big-ip-ltm-local-traffic-manager/
+F5TS: F5 Networks Troubleshooting BIG-IP,2,"$2,420.00","$1,452.00",Y,https://www.epiclearningnetwork.com/training/f5ts-f5-networks-troubleshooting-big-ip/
+A3R199: RHCSA Rapid Track (RH199 Equivalent),5,"$3,495.00","$1,747.50",Y,https://www.epiclearningnetwork.com/training/a3r199-rhcsa-rapid-track-rh199-equivalent/
+A3RH124: Linux System Administrator Part One (RH124 Equivalent),5,"$2,995.00","$1,497.50",Y,https://www.epiclearningnetwork.com/training/a3rh124-linux-system-administrator-part-one-rh124-equivalent/
+A3RH134: Linux System Administrator Part Two (RH134 Equivalent),5,"$2,995.00","$1,497.50",Y,https://www.epiclearningnetwork.com/training/a3rh134-linux-system-administrator-part-two-rh134-equivalent/
+TTLX2103: Introduction to Linux | Linux Essentials JumpStart,3,"$2,295.00","$1,147.50",Y,https://www.epiclearningnetwork.com/training/ttlx2103-introduction-to-linux-linux-essentials-jumpstart/
+TTLX2104: Intermediate Linux,2,"$2,195.00","$1,097.50",Y,https://www.epiclearningnetwork.com/training/ttlx2104-intermediate-linux/
+TTLX2220: Introduction to Linux Systems Administration,5,"$2,795.00","$1,397.50",Y,https://www.epiclearningnetwork.com/training/ttlx2220-introduction-to-linux-systems-administration/
+TTDVLK02: Looker Bootcamp: Analyzing and Visualizing Data with Looker,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttdvlk02-looker-bootcamp-analyzing-and-visualizing-data-with-looker/
+AAPM-Nutanix: Advanced Administration & Performance Management (AAPM),4,"$5,100.00","$2,550.00",Y,https://www.epiclearningnetwork.com/training/aapm-nutanix-advanced-administration-performance-management-aapm/
+ECA-Nutanix: Nutanix Enterprise Cloud Administration (ECA),4,"$4,500.00","$2,700.00",Y,https://www.epiclearningnetwork.com/training/eca-nutanix-nutanix-enterprise-cloud-administration-eca/
+NC2A-Azure: Nutanix Cloud Clusters on Azure Administration (NC2A-Azure),3,"$4,350.00","$2,610.00",Y,https://www.epiclearningnetwork.com/training/nc2a-azure-nutanix-cloud-clusters-on-azure-administration-nc2a-azure/
+NDMA-Nutanix: Nutanix Database Management & Automation (NDMA),2,"$2,650.00","$1,572.00",Y,https://www.epiclearningnetwork.com/training/ndma-nutanix-nutanix-database-management-automation-ndma/
+NHCF-Nutanix: Nutanix Hybrid Cloud Fundamentals (NHCF),2,"$2,100.00","$1,260.00",Y,https://www.epiclearningnetwork.com/training/nhcf-nutanix-nutanix-hybrid-cloud-fundamentals-nhcf/
+NMCAA-Nutanix: Nutanix Multicloud Automation Administration (NMCAA),2,"$2,650.00","$1,572.00",Y,https://www.epiclearningnetwork.com/training/nmcaa-nutanix-nutanix-multicloud-automation-administration-nmcaa/
+TTDS6760: Introduction to Kafka for Developers,2,"$1,995.00",$997.50,Y,https://www.epiclearningnetwork.com/training/ttds6760-introduction-to-kafka-for-developers/
+TTDS6776: Introduction to Cassandra,3,"$2,295.00","$1,147.50",Y,https://www.epiclearningnetwork.com/training/ttds6776-introduction-to-cassandra/
+TTOR12019: Oracle 19c PL/SQL Fundamentals,3,"$2,395.00","$1,197.48",Y,https://www.epiclearningnetwork.com/training/ttor12019-oracle-19c-pl-sql-fundamentals/
+TTOR20519: Oracle 19c Database Administration I (Oracle 19c DBA I),5,"$2,895.00","$1,447.50",Y,https://www.epiclearningnetwork.com/training/ttor20519-oracle-19c-database-administration-i-oracle-19c-dba-i/
+TTOR20619: Oracle 19c Database Administration II (Oracle 19c DBA II),5,"$2,895.00","$1,447.50",Y,https://www.epiclearningnetwork.com/training/ttor20619-oracle-19c-database-administration-ii-oracle-19c-dba-ii/
+TTOR20719: Oracle 19c Database Multitenant Architecture,3,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/ttor20719-oracle-19c-database-multitenant-architecture/
+TTOR21619: Oracle Database 19c Backup and Recovery,3,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/ttor21619-oracle-database-19c-backup-and-recovery/
+TTDTAB006: Tableau Desktop Fundamentals,2,"$1,695.00",$847.50,Y,https://www.epiclearningnetwork.com/training/ttdtab006-tableau-desktop-fundamentals/
+TTDTAB007: Tableau Desktop II (Intermediate Tableau Desktop),2,"$1,695.00",$847.50,Y,https://www.epiclearningnetwork.com/training/ttdtab007-tableau-desktop-ii-intermediate-tableau-desktop/
+EDU-HDM88: VMware Horizon: Deploy and Manage [V8.8],5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/edu-hdm88-vmware-horizon-deploy-and-manage-v8-8/
+"EDU-NSXICM4: VMware NSX: Install, Configure, Manage [V4.0]",5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/edu-nsxicm4-vmware-nsx-install-configure-manage-v4-0/
+EDU-NSXTICM32: VMware NSX-T Data Center: Install Configure Manage [V3.2],5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/edu-nsxticm32-vmware-nsx-t-data-center-install-configure-manage-v3-2/
+"EDU-VSICM7: VMware vSphere: Install, Configure, Manage [V7]",5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/edu-vsicm7-vmware-vsphere-install-configure-manage-v7/
+"EDU-VSICM8: VMware vSphere: Install, Configure, Manage [V8]",5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/edu-vsicm8-vmware-vsphere-install-configure-manage-v8/
+EDU-VSOS7: VMware vSphere: Optimize and Scale [V7],5,"$4,625.00","$2,312.50",Y,https://www.epiclearningnetwork.com/training/edu-vsos7-vmware-vsphere-optimize-and-scale-v7/
+EDU-VSOSS8: VMware vSphere: Operate Scale and Secure [V8],5,"$4,625.00","$2,312.50",Y,https://www.epiclearningnetwork.com/training/edu-vsoss8-vmware-vsphere-operate-scale-and-secure-v8/
+EDU-VSWN8: VMware vSphere: What’s New [V8],2,"$1,700.00",$850.00,Y,https://www.epiclearningnetwork.com/training/edu-vswn8-vmware-vsphere-whats-new-v8/
+"VAAICM817: VMware Aria Automation: Install, Configure, Manage [V8.17]",5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/vaaicm817-vmware-aria-automation-install-configure-manage-v8-17/
+"VCFDCM5: VMware Cloud Foundation: Deploy, Configure, Manage [V5.2]",5,"$4,250.00","$2,125.00",Y,https://www.epiclearningnetwork.com/training/vcfdcm5-vmware-cloud-foundation-deploy-configure-manage-v5-2/
+VSAA: VMware vSphere: Advanced Administration [V8.0],5,"$4,625.00","$2,312.50",Y,https://www.epiclearningnetwork.com/training/vsaa-vmware-vsphere-advanced-administration-v8-0/
+"VSANICM8: VMware vSAN: Install, Configure, Manage [V8.x]",4,"$3,400.00","$1,360.00",Y,https://www.epiclearningnetwork.com/training/vsanicm8-vmware-vsan-install-configure-manage-v8-x/
+VSD80: VMware vSphere: Design [V8.0],3,"$2,775.00",$832.50,Y,https://www.epiclearningnetwork.com/training/vsd80-vmware-vsphere-design-v8-0/
+VSFT8: VMware vSphere: Fast Track [V8.0],5,"$6,475.00","$3,237.50",Y,https://www.epiclearningnetwork.com/training/vsft8-vmware-vsphere-fast-track-v8-0/
+VSTRB8: VMware vSphere: Troubleshooting [V8.0],5,"$4,625.00","$2,312.50",Y,https://www.epiclearningnetwork.com/training/vstrb8-vmware-vsphere-troubleshooting-v8-0/
+A35G: 5G Essentials,3,"$2,595.00","$1,297.50",Y,https://www.epiclearningnetwork.com/training/a35g-5g-essentials/
+A3SIP: SIP Essentials,5,"$2,795.00","$1,397.50",Y,https://www.epiclearningnetwork.com/training/a3sip-sip-essentials/
+A3TCPIP: TCP/IP Fundamentals,3,"$2,495.00","$1,247.49",Y,https://www.epiclearningnetwork.com/training/a3tcpip-tcp-ip-fundamentals/
+A3WIRE: Wireshark Fundamentals,3,"$2,395.00","$1,097.49",Y,https://www.epiclearningnetwork.com/training/a3wire-wireshark-fundamentals/
