@@ -4,6 +4,7 @@ import re
 import asyncio
 import subprocess
 import sys
+import os
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 from io import StringIO
@@ -75,11 +76,41 @@ async def parse_class_schedule(html_content, course_title):
 
 async def scrape_courses(email, password, progress_bar, status_text):
     async with async_playwright() as playwright:
-        # Use system chromium if available
-        browser = await playwright.chromium.launch(
-            headless=True,
-            executable_path="/usr/bin/chromium-browser" if sys.platform == "linux" else None
-        )
+        try:
+            # Try to launch browser with default configuration first
+            browser = await playwright.chromium.launch(
+                headless=True,
+                args=['--no-sandbox']  # Add no-sandbox argument for containerized environments
+            )
+        except Exception as e:
+            st.error(f"Failed to launch browser with default configuration: {str(e)}")
+            st.error("Attempting alternative launch configuration...")
+            try:
+                # Try to find the system Chrome/Chromium executable
+                chrome_paths = [
+                    '/usr/bin/chromium-browser',  # Ubuntu/Debian
+                    '/usr/bin/chromium',          # Some Linux distros
+                    '/usr/bin/google-chrome',     # Chrome on Linux
+                ]
+                
+                executable_path = None
+                for path in chrome_paths:
+                    if os.path.exists(path):
+                        executable_path = path
+                        break
+                
+                if executable_path:
+                    browser = await playwright.chromium.launch(
+                        headless=True,
+                        executable_path=executable_path,
+                        args=['--no-sandbox']
+                    )
+                else:
+                    raise Exception("No suitable browser executable found")
+            except Exception as e:
+                st.error(f"Failed to launch browser with all configurations: {str(e)}")
+                raise Exception("Unable to launch browser. Please check system requirements.")
+        
         context = await browser.new_context()
         page = await context.new_page()
         
