@@ -1,4 +1,5 @@
 import asyncio
+import streamlit as st
 from scraper import BrowserManager, CourseScraper
 from ui import UI
 
